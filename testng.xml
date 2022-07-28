@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="webdriverIO">
+  <test thread-count="5" name="TouchActions">
+    <classes>
+      <class name="features.Login"/>
+      <class name="features.Forms"></class>
+      <class name="features.Swipe"/>
+      <class name="features.Drag"/>
+    </classes>
+  </test> <!-- TouchActions -->
+</suite> <!-- webdriverIO -->

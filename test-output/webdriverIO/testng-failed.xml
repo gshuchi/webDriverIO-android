@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [webdriverIO]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TouchActions(failed)">
+    <classes>
+      <class name="features.SwipeII">
+        <methods>
+          <include name="InvokeApp"/>
+          <include name="TearDown"/>
+          <include name="InvokeTest"/>
+        </methods>
+      </class> <!-- features.SwipeII -->
+    </classes>
+  </test> <!-- TouchActions(failed) -->
+</suite> <!-- Failed suite [webdriverIO] -->

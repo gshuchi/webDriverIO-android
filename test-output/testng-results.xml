@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T19:25:00 IST" name="webdriverIO" finished-at="2022-07-28T19:27:54 IST" duration-ms="173477">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T19:25:00 IST" name="TouchActions" finished-at="2022-07-28T19:27:54 IST" duration-ms="173477">
+      <class name="features.Forms">
+        <test-method is-config="true" signature="InvokeApp()[pri:0, instance:features.Forms@245b4bdc]" started-at="2022-07-28T19:25:39 IST" name="InvokeApp" finished-at="2022-07-28T19:25:56 IST" duration-ms="17430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeApp -->
+        <test-method signature="InvokeTest()[pri:0, instance:features.Forms@245b4bdc]" started-at="2022-07-28T19:25:56 IST" name="InvokeTest" finished-at="2022-07-28T19:26:06 IST" duration-ms="9440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:features.Forms@245b4bdc]" started-at="2022-07-28T19:26:06 IST" name="TearDown" finished-at="2022-07-28T19:26:08 IST" duration-ms="2156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- features.Forms -->
+      <class name="features.Login">
+        <test-method is-config="true" signature="InvokeApp()[pri:0, instance:features.Login@384ad17b]" started-at="2022-07-28T19:25:01 IST" name="InvokeApp" finished-at="2022-07-28T19:25:21 IST" duration-ms="20681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeApp -->
+        <test-method signature="InvokeTest()[pri:0, instance:features.Login@384ad17b]" started-at="2022-07-28T19:25:21 IST" name="InvokeTest" finished-at="2022-07-28T19:25:37 IST" duration-ms="15876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:features.Login@384ad17b]" started-at="2022-07-28T19:25:37 IST" name="TearDown" finished-at="2022-07-28T19:25:39 IST" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- features.Login -->
+      <class name="features.Drag">
+        <test-method is-config="true" signature="InvokeApp()[pri:0, instance:features.Drag@6ae5aa72]" started-at="2022-07-28T19:27:00 IST" name="InvokeApp" finished-at="2022-07-28T19:27:18 IST" duration-ms="18129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeApp -->
+        <test-method signature="InvokeTest()[pri:0, instance:features.Drag@6ae5aa72]" started-at="2022-07-28T19:27:18 IST" name="InvokeTest" finished-at="2022-07-28T19:27:54 IST" duration-ms="35926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:features.Drag@6ae5aa72]" started-at="2022-07-28T19:27:54 IST" name="TearDown" finished-at="2022-07-28T19:27:54 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- features.Drag -->
+      <class name="features.Swipe">
+        <test-method is-config="true" signature="InvokeApp()[pri:0, instance:features.Swipe@6c64cb25]" started-at="2022-07-28T19:26:08 IST" name="InvokeApp" finished-at="2022-07-28T19:26:27 IST" duration-ms="18423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeApp -->
+        <test-method signature="InvokeTest()[pri:0, instance:features.Swipe@6c64cb25]" started-at="2022-07-28T19:26:27 IST" name="InvokeTest" finished-at="2022-07-28T19:26:58 IST" duration-ms="31229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:features.Swipe@6c64cb25]" started-at="2022-07-28T19:26:58 IST" name="TearDown" finished-at="2022-07-28T19:27:00 IST" duration-ms="1777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- features.Swipe -->
+    </test> <!-- TouchActions -->
+  </suite> <!-- webdriverIO -->
+</testng-results>
